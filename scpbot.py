@@ -610,4 +610,4 @@ async def on_command_error(ctx, error):
         embed.set_footer(text=f"{footer}")
         await ctx.send(embed=embed)
 
-client.run('[PUT YOUR TOKEN HERE]')
+client.run('[UT YOUR TOKEN HERE')
